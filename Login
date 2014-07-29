@@ -5,7 +5,7 @@
   <title>Login</title>
 </head>
 <body>
-<div type=>name</div>
+<div>name</div>
 <div type="button">id</div>
 
 </body>
